@@ -1,3 +1,5 @@
+![Python Automation Scripts](https://raw.githubusercontent.com/julie-ai-projects/python-automation-scripts/main/banner.png)
+
 # 🧠 Python Automation Scripts Collection
 
 ### 💬 A curated collection of Python automation mini-projects — practical, local, and beginner-friendly.
@@ -30,6 +32,11 @@ file organization, email sending, data cleaning, and scheduled tasks.
 ✅ Realistic automation use cases  
 ✅ Perfect for portfolio and GitHub profile  
 ✅ Each folder has clear documentation and code  
+
+---
+
+## 🏷️ Suggested Tags
+python, automation, productivity, portfolio, scripts, beginner-friendly, local-tools, python-projects
 
 ---
 
